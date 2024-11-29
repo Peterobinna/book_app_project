@@ -1,0 +1,17 @@
+# Sensitive Files
+*.env
+*.key
+api_key.js
+
+# Dependency Directories
+node_modules/
+
+# VS Code Settings
+.vscode/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
